@@ -1,0 +1,8 @@
+1701632587.612243 : Preliminaries complete. Initiating ETL process
+1701632588.150471 : Data extraction complete. Initiating Transformation process
+1701632588.191837 : Data transformation complete. Initiating Loading process
+1701632588.235724 : Data saved to CSV file
+1701632588.246597 : SQL Connection initiated
+1701632588.29372 : Data loaded to Database as a table, Executing queries
+1701632588.308502 : Process Complete
+1701632588.3095 : Server Connection closed
